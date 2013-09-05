@@ -1,0 +1,10 @@
+﻿RTSP SERVER
+
+This project implements gstreamer rtsp server to stream various formats of the media files.
+
+Instructions 
+1. Download the files to a folder.
+2. In terminal change the working directory to the one in which you have downloaded the files
+3.Type 'make' in terminal
+4.If no error is generated an object file as well as an executable will be generated
+5.To run the program type './rtsptest'
